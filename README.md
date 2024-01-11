@@ -1,6 +1,6 @@
 # SAPRouter Terraform Module 
-Terraform Module for SAProuter deployment on AWS Cloud.
-This terraform deployment will setup a OpenSUSE Leap AWS EC2 Instance will allows to run an SAPRouter. The routing file will be downloaded from specified location via `routtab-file-url` variable.
+Terraform Module for SAProuter deployment on AWS Cloud. This terraform deployment will setup a OpenSUSE Leap AWS EC2 Instance will allows to run an SAPRouter.
+The routing file will be downloaded from specified location via `routtab-file-url` variable.
 
 # How to use
 
